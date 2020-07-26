@@ -30,3 +30,13 @@ a:hover{
 #img-div{
   border-radius: 50%;
 }
+footer{
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: linear-gradient(90deg, rgba(255, 0, 0, 0.5), rgba(238, 255, 5, 0.5), rgba( 0, 255, 0, 0.5), rgba(0, 0, 255, 0.5));
+}
+#contact{
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
